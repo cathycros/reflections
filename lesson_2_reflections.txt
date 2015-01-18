@@ -6,3 +6,15 @@ Provides intermediary area to work with files - allows review, reflection before
 
 How can you use the staging area to make sure you have one commit per logical change?
 Review changes that are added to staging area to ensure you've captured all files for the logical change, with no extras
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Testing new features, multiple people working on same files
+
+How do the diagrams help you visualize the branch structure?
+They give a visual representation of the branching structure
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+You combine 2 branches into 1
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Time savings, simplicity, avoid missing things to merge
