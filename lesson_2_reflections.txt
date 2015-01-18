@@ -3,3 +3,6 @@ You create an empty repository where you can later save your commits
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Provides intermediary area to work with files - allows review, reflection before making a commit
+
+How can you use the staging area to make sure you have one commit per logical change?
+Review changes that are added to staging area to ensure you've captured all files for the logical change, with no extras
